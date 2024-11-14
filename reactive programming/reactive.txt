@@ -17,3 +17,13 @@ public void onNext(T t);
 public void onError(Throwable t);
 public void onComplete();
 
+
+Subscription interface:
+public void request(long n);
+public void cancel();
+
+libs:
+	Reactor
+	RxJava
+	Jdk9 Flow Reactive Stream
+
