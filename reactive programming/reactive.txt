@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=EExlnnq5Grs&list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI
+
+Spring boot reactive programming:
+https://www.youtube.com/watch?v=A5nCPqPH3Fc&list=PLVz2XdJiJQxyB4Sy29sAnU3Eqz0pvGCkD
+
+notes for this:
+
+publihser
+	substcriber
+		subscription
+			processor 
+
+Subscriber<T> interface:
+
+public void onSubscribe(Subscription s);
+public void onNext(T t);
+public void onError(Throwable t);
+public void onComplete();
+
