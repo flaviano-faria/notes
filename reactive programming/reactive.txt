@@ -3,6 +3,10 @@ https://www.youtube.com/watch?v=EExlnnq5Grs&list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4v
 Spring boot reactive programming:
 https://www.youtube.com/watch?v=A5nCPqPH3Fc&list=PLVz2XdJiJQxyB4Sy29sAnU3Eqz0pvGCkD
 
+https://www.youtube.com/watch?v=EJHUWh7eI5c
+https://www.youtube.com/watch?v=_boPkSQ-hfw&list=PLYHDP_mF5KjYC-k2DEVtOZCmjHfQqnav4
+https://www.youtube.com/watch?v=7mbjhNCWqvs&list=PLZ3FH0lcV0117kiek3g-qiQDkO4ezy_Ro
+
 notes for this:
 
 publihser
