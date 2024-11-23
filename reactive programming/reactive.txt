@@ -32,4 +32,9 @@ libs:
 	Reactor
 	RxJava
 	Jdk9 Flow Reactive Stream
+	
+	Spring reactive web
+	Spring Data R2DBC 
+
+	PS: Use @Table annotation to mapping entity table
 
