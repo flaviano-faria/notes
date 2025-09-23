@@ -5,3 +5,7 @@ https://www.youtube.com/watch?v=5abffC-K40c
 
 Adam:
 https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM 
+
+
+Azure pipelines + tsp compile:
+https://azure.github.io/typespec-azure/docs/howtos/rest-api-publish/buildpipelines/
