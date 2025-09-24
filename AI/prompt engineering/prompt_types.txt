@@ -1,3 +1,7 @@
 chain of thought:  https://www.promptingguide.ai/techniques/cot
 - step by step description
 - decomposes problem in minimal tasks
+
+skeleton of thought:
+The SoT method is different from other methods because it is built not just to get better outputs, 
+but to make the LLM work faster and more efficiently
