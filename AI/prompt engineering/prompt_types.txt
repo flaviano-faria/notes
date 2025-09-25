@@ -5,3 +5,6 @@ chain of thought:  https://www.promptingguide.ai/techniques/cot
 skeleton of thought:
 The SoT method is different from other methods because it is built not just to get better outputs, 
 but to make the LLM work faster and more efficiently
+
+Tree of Thoughts (ToT):
+Tree of Thoughts (ToT) prompting enables models to explore and evaluate multiple reasoning paths, enhancing decision-making and solution accuracy.
