@@ -17,3 +17,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7431170876789837824?updateE
 
 AWS AI Courses:
 https://www.linkedin.com/feed/update/urn:li:activity:7430609100339822593?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7430609100339822593%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Free AI Courses:
+https://www.linkedin.com/feed/update/urn:li:activity:7431903270001934336?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7431903270001934336%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+9 Free Courses to learn AI:
+https://www.linkedin.com/feed/update/urn:li:activity:7431321875789631488?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7431321875789631488%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
