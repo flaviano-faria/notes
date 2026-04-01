@@ -8,3 +8,32 @@ but to make the LLM work faster and more efficiently
 
 Tree of Thoughts (ToT):
 Tree of Thoughts (ToT) prompting enables models to explore and evaluate multiple reasoning paths, enhancing decision-making and solution accuracy.
+
+Example:
+1. Imagine you're trying to find a good place to go on vacation. 
+   Your needs are:
+   *Find a good vacation spot. Keep in mind: 
+   *Must be in India. 
+   *Good for families. 
+   *Has fun outdoor activities. 
+   *Has interesting historical places. 
+   *Summer weather should be bearable.
+
+2. Choices for looking up places: 
+   *Choice 1: Look at places in Northern India. 
+     *More choices: Himachal Pradesh or Uttarakhand. 
+   *Choice 2: Look at places in Southern India. 
+     *More choices: Kerala or Tamil Nadu. 
+   *Choice 3: Look at places in Western India. 
+     *More choices: Goa or Rajasthan.
+
+3. Pick a choice and dig deeper.
+4. Compare all the places you found based on your needs.
+
+Here, you can use a 'browser' tool to help you look for
+info along the path you chose. The AI can follow a path,  do
+the searching, and check how good the options are based on
+what you need.  This way of solving problems can give you more
+complete and fitting answers. 
+
+Reference: https://dev.to/zokizuan/tree-of-thoughts-a-new-way-to-prompt-ai-2dle 
