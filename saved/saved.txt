@@ -20,3 +20,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7448429595537600512?updateE
 
 9 github repos for devOps beginners
 https://www.linkedin.com/feed/update/urn:li:activity:7448254657333899264?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448254657333899264%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Spring boot questions:
+https://www.linkedin.com/posts/dasari-saikiran-979592135_java-ugcPost-7448244627951763456-c4Go?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+AI Terms:
+https://www.linkedin.com/feed/update/urn:li:activity:7448671212286935040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448671212286935040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
