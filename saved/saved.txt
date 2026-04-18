@@ -43,3 +43,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7450226427830022144?updateE
 
 youtube channels learn AI
 https://www.linkedin.com/feed/update/urn:li:activity:7450181132173611008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7450181132173611008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+cloud learning resources
+https://www.linkedin.com/feed/update/urn:li:activity:7451223018103754754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451223018103754754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
