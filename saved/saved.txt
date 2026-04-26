@@ -53,3 +53,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7452681966497218560?updateE
 
 kubernetes assignments
 https://www.linkedin.com/feed/update/urn:li:activity:7451872091693301760?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451872091693301760%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+spring boot tests
+https://www.linkedin.com/feed/update/urn:li:activity:7453179154562289665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7453179154562289665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+system design roadmap
+https://www.linkedin.com/feed/update/urn:li:activity:7452672608828993539?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7452672608828993539%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
