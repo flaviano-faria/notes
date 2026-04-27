@@ -59,3 +59,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7453179154562289665?updateE
 
 system design roadmap
 https://www.linkedin.com/feed/update/urn:li:activity:7452672608828993539?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7452672608828993539%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+AWS SAA
+https://www.linkedin.com/feed/update/urn:li:activity:7449788735551885312?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7449788735551885312%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
