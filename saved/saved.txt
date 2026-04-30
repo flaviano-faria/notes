@@ -62,3 +62,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7452672608828993539?updateE
 
 AWS SAA
 https://www.linkedin.com/feed/update/urn:li:activity:7449788735551885312?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7449788735551885312%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+System desing arch
+https://www.linkedin.com/feed/update/urn:li:activity:7451847186738253824?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451847186738253824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
