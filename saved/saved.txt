@@ -68,3 +68,13 @@ https://www.linkedin.com/feed/update/urn:li:activity:7451847186738253824?updateE
 
 system design fundamentals
 https://www.linkedin.com/feed/update/urn:li:activity:7455825441527029760?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7455825441527029760%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+System design concepts
+https://www.linkedin.com/feed/update/urn:li:activity:7458404654591184896?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7458404654591184896%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+16 system design concepts
+https://www.linkedin.com/feed/update/urn:li:activity:7458130821149855744?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7458130821149855744%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+microservices 
+https://www.linkedin.com/feed/update/urn:li:activity:7457629175332380672?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7457629175332380672%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
