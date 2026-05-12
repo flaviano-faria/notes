@@ -87,3 +87,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7453119495033884672?updateE
 
 35 articles for system design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7458404654591184896?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7458404654591184896%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+redis usecases
+https://www.linkedin.com/feed/update/urn:li:activity:7459471439063195649?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7459471439063195649%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
