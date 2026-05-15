@@ -97,3 +97,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7459471439063195649?updateE
 
 guide to soft skills
 https://www.linkedin.com/feed/update/urn:li:activity:7460084289691480064?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7460084289691480064%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+devops SRE repo:
+https://www.linkedin.com/feed/update/urn:li:activity:7456221080026931200?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7456221080026931200%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
