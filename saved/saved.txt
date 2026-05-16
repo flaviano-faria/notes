@@ -100,3 +100,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7460084289691480064?updateE
 
 devops SRE repo:
 https://www.linkedin.com/feed/update/urn:li:activity:7456221080026931200?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7456221080026931200%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Claude courses
+https://www.linkedin.com/feed/update/urn:li:activity:7461279275942346754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7461279275942346754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+11 courses - claude
+https://www.linkedin.com/feed/update/urn:li:activity:7460770238482063360?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7460770238482063360%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
