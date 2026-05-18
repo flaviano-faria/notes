@@ -1,0 +1,4 @@
+https://blog.dsacademy.com.br/alem-do-prompt-um-guia-definitivo-sobre-context-engineering-engenharia-de-contexto/
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+https://github.com/davidkimai/Context-Engineering
+https://www.promptingguide.ai/guides/context-engineering-guide
