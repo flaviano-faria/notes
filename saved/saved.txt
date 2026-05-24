@@ -118,3 +118,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7463873414962003968?updateE
 
 Claude cheat sheet
 https://www.linkedin.com/feed/update/urn:li:activity:7463414446762221571?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463414446762221571%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+claude free courses from anthropic
+https://www.linkedin.com/posts/anthropic-quietly-dropped-13-free-claude-share-7464246035436179456-IywM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+system design cases
+https://www.linkedin.com/feed/update/urn:li:activity:7464253221742559232?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7464253221742559232%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
