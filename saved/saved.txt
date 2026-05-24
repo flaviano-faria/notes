@@ -112,3 +112,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7462119517888856064?updateE
 
 system design repos
 https://www.linkedin.com/feed/update/urn:li:activity:7463083766719156224?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463083766719156224%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+software engineer newletters
+https://www.linkedin.com/feed/update/urn:li:activity:7463873414962003968?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463873414962003968%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Claude cheat sheet
+https://www.linkedin.com/feed/update/urn:li:activity:7463414446762221571?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463414446762221571%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
