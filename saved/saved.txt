@@ -127,3 +127,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7464253221742559232?updateE
 
 aws use cases
 https://www.linkedin.com/feed/update/urn:li:activity:7465371383657771008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7465371383657771008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+roadmap java engineer
+https://www.linkedin.com/feed/update/urn:li:activity:7464948776072433665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7464948776072433665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
