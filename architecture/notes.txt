@@ -1,0 +1,2 @@
+clean architecture
+https://medium.com/porto-seguro/implementando-clean-architecture-com-spring-4a8da4110bd5
