@@ -131,3 +131,16 @@ https://www.linkedin.com/feed/update/urn:li:activity:7465371383657771008?updateE
 roadmap java engineer
 https://www.linkedin.com/feed/update/urn:li:activity:7464948776072433665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7464948776072433665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+system design concepts
+https://www.linkedin.com/feed/update/urn:li:activity:7467226571745984512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467226571745984512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+claude code
+https://www.linkedin.com/feed/update/urn:li:activity:7466791806433767424?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7466791806433767424%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+free ai courses
+https://www.linkedin.com/feed/update/urn:li:activity:7467094159443562496?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467094159443562496%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+system design github repos
+https://www.linkedin.com/feed/update/urn:li:activity:7467185335752544256?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467185335752544256%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
