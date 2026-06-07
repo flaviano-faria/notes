@@ -153,3 +153,6 @@ https://www.linkedin.com/posts/milanmilanovic_%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%
 
 20 system design concepts
 https://www.linkedin.com/feed/update/urn:li:activity:7467226571745984512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467226571745984512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+microservices roadmap
+https://www.linkedin.com/posts/kazeem-aina-kolawole-502222388_microservices-softwarearchitecture-cloudnative-share-7468223228205985792-Y0Q0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
