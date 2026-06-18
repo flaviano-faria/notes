@@ -21,6 +21,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7448429595537600512?updateE
 9 github repos for devOps beginners
 https://www.linkedin.com/feed/update/urn:li:activity:7448254657333899264?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448254657333899264%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+claude prompt frameworks
+https://www.linkedin.com/posts/stop-wasting-claudes-power-on-weak-prompts-share-7472635624357961728-DpXq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
 aws local
 https://www.linkedin.com/feed/update/urn:li:activity:7459721485490737152?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7459721485490737152%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
