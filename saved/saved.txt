@@ -195,3 +195,12 @@ https://www.linkedin.com/feed/update/urn:li:groupPost:3983267-747440680738230272
 
 claude shortcuts
 https://www.linkedin.com/feed/update/urn:li:activity:7474061145180430337?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474061145180430337%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+system design core patterns
+https://www.linkedin.com/feed/update/urn:li:activity:7474652385538125824?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474652385538125824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+system design case study
+https://www.linkedin.com/feed/update/urn:li:activity:7474800905817821184?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474800905817821184%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+system design principles
+https://www.linkedin.com/feed/update/urn:li:activity:7472531831112921089?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472531831112921089%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
