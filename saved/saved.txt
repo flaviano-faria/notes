@@ -189,3 +189,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7473803603821015040/?utm_so
 
 microservices concepts
 https://www.linkedin.com/posts/swethatelu_microservices-systemdesign-softwareengineering-share-7471420024507764738-gsAG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+system design cheatsheet
+https://www.linkedin.com/feed/update/urn:li:groupPost:3983267-7474406807382302720/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+claude shortcuts
+https://www.linkedin.com/feed/update/urn:li:activity:7474061145180430337?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474061145180430337%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
