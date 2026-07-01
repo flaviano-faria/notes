@@ -204,3 +204,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7474800905817821184?updateE
 
 system design principles
 https://www.linkedin.com/feed/update/urn:li:activity:7472531831112921089?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472531831112921089%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+System Design Patterns Every Engineer Should Know in 2026
+https://www.linkedin.com/posts/alexandre-zajac_101-system-design-patterns-every-engineer-share-7477745289018122240-Yomf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
