@@ -213,3 +213,6 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_system-design-is-the-highes
 
 12 system design concepts
 https://www.linkedin.com/feed/update/urn:li:activity:7478789269218803713?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7478789269218803713%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+10 system design key pillars
+https://www.linkedin.com/feed/update/urn:li:activity:7477367830322200577?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7477367830322200577%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
