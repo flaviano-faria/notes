@@ -216,3 +216,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7478789269218803713?updateE
 
 10 system design key pillars
 https://www.linkedin.com/feed/update/urn:li:activity:7477367830322200577?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7477367830322200577%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+system design blocks:
+https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479867751533056000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
