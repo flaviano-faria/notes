@@ -228,3 +228,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7479956456931385344?updateE
 
 improve system design 
 https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479867751533056000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+free AI courses 
+https://www.linkedin.com/posts/anthropic-just-launched-10-free-ai-courses-share-7481406900375388160-LM4Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
