@@ -222,3 +222,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateE
 
 14 system design concepts:
 https://www.linkedin.com/posts/nk-systemdesign-one_i-struggled-with-system-design-until-share-7480242795266613249-ddbV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+java production scenarios:
+https://www.linkedin.com/feed/update/urn:li:activity:7479956456931385344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479956456931385344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+improve system design 
+https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479867751533056000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
