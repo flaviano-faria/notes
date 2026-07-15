@@ -1,220 +1,81 @@
-https://www.linkedin.com/feed/update/urn:li:activity:7432393970510544896/
-
-Useful courses:
-https://www.linkedin.com/feed/update/urn:li:activity:7432288973537968128/
-
-Architecture:
-https://www.linkedin.com/feed/update/urn:li:activity:7431170876789837824/
-
-devops hands-on:
-https://www.linkedin.com/posts/kareen-ajatiton-8012b1149_%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%BD-%F0%9D%9F%B1-%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%98%80-activity-7432831827830026240-JswC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+# System Design
 
 30 system design concepts:
 https://www.linkedin.com/posts/ankit-pangasa_30-blogs-to-learn-30-system-design-concepts-activity-7432393970510544896-J6y9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-Learn cloud devops
-https://www.linkedin.com/posts/emmanuel-oluyemi-43588a217_%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%9D-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%8E%F0%9D%90%A9%F0%9D%90%AC-activity-7440304652660731905-jUUJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-Top 9 AI Courses
-https://www.linkedin.com/feed/update/urn:li:activity:7448429595537600512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448429595537600512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-9 github repos for devOps beginners
-https://www.linkedin.com/feed/update/urn:li:activity:7448254657333899264?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448254657333899264%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-claude prompt frameworks
-https://www.linkedin.com/posts/stop-wasting-claudes-power-on-weak-prompts-share-7472635624357961728-DpXq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-aws local
-https://www.linkedin.com/feed/update/urn:li:activity:7459721485490737152?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7459721485490737152%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-Spring boot questions:
-https://www.linkedin.com/posts/dasari-saikiran-979592135_java-ugcPost-7448244627951763456-c4Go?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-AI Terms:
-https://www.linkedin.com/feed/update/urn:li:activity:7448671212286935040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%
-28urn%3Ali%3Aactivity%3A7448671212286935040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-Spring boot power
-https://www.linkedin.com/feed/update/urn:li:activity:7446851498325622784?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7446851498325622784%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-java backend roadmap:
-https://www.linkedin.com/feed/update/urn:li:activity:7443550919956463616?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7443550919956463616%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
+Architecture:
+https://www.linkedin.com/feed/update/urn:li:activity:7431170876789837824/
 
 system design approaches:
 https://www.linkedin.com/posts/ankitkumardev25_thoughtfortheday-systemdesign-softwareengineering-activity-7447309366309072896-Iffp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-40 AI terms
-https://www.linkedin.com/feed/update/urn:li:activity:7450226427830022144?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7450226427830022144%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-youtube channels learn AI
-https://www.linkedin.com/feed/update/urn:li:activity:7450181132173611008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7450181132173611008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-
-cloud learning resources
-https://www.linkedin.com/feed/update/urn:li:activity:7451223018103754754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451223018103754754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-kafka design patterns
-https://www.linkedin.com/feed/update/urn:li:activity:7452681966497218560?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7452681966497218560%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-kubernetes assignments
-https://www.linkedin.com/feed/update/urn:li:activity:7451872091693301760?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451872091693301760%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-spring boot tests
-https://www.linkedin.com/feed/update/urn:li:activity:7453179154562289665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7453179154562289665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-system design roadmap
+system design roadmap:
 https://www.linkedin.com/feed/update/urn:li:activity:7452672608828993539?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7452672608828993539%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-AWS SAA
-https://www.linkedin.com/feed/update/urn:li:activity:7449788735551885312?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7449788735551885312%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-System desing arch
+System design arch:
 https://www.linkedin.com/feed/update/urn:li:activity:7451847186738253824?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451847186738253824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-system design fundamentals
+system design fundamentals:
 https://www.linkedin.com/feed/update/urn:li:activity:7455825441527029760?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7455825441527029760%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-
-System design concepts
+System design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7458404654591184896?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7458404654591184896%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-16 system design concepts
+16 system design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7458130821149855744?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7458130821149855744%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-microservices 
-https://www.linkedin.com/feed/update/urn:li:activity:7457629175332380672?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7457629175332380672%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-github repos devops AI
-https://www.linkedin.com/posts/vsadhwani_5-github-repos-every-devops-engineer-should-share-7458790989953122304--RzE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-kubernetes:
-https://www.linkedin.com/feed/update/urn:li:activity:7453119495033884672?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7453119495033884672%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 35 articles for system design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7458404654591184896?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7458404654591184896%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-
-redis usecases
-https://www.linkedin.com/feed/update/urn:li:activity:7459471439063195649?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7459471439063195649%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-guide to soft skills
-https://www.linkedin.com/feed/update/urn:li:activity:7460084289691480064?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7460084289691480064%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-devops SRE repo:
-https://www.linkedin.com/feed/update/urn:li:activity:7456221080026931200?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7456221080026931200%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-Claude courses
-https://www.linkedin.com/feed/update/urn:li:activity:7461279275942346754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7461279275942346754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-11 courses - claude
-https://www.linkedin.com/feed/update/urn:li:activity:7460770238482063360?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7460770238482063360%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
 cases system design:
 https://www.linkedin.com/feed/update/urn:li:activity:7462119517888856064?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7462119517888856064%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-system design repos
+system design repos:
 https://www.linkedin.com/feed/update/urn:li:activity:7463083766719156224?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463083766719156224%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-software engineer newletters
-https://www.linkedin.com/feed/update/urn:li:activity:7463873414962003968?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463873414962003968%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-Claude cheat sheet
-https://www.linkedin.com/feed/update/urn:li:activity:7463414446762221571?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463414446762221571%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-claude free courses from anthropic
-https://www.linkedin.com/posts/anthropic-quietly-dropped-13-free-claude-share-7464246035436179456-IywM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-system design cases
+system design cases:
 https://www.linkedin.com/feed/update/urn:li:activity:7464253221742559232?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7464253221742559232%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-aws use cases
-https://www.linkedin.com/feed/update/urn:li:activity:7465371383657771008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7465371383657771008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-roadmap java engineer
-https://www.linkedin.com/feed/update/urn:li:activity:7464948776072433665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7464948776072433665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-system design concepts
+system design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7467226571745984512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467226571745984512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-claude code
-https://www.linkedin.com/feed/update/urn:li:activity:7466791806433767424?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7466791806433767424%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-free ai courses
-https://www.linkedin.com/feed/update/urn:li:activity:7467094159443562496?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467094159443562496%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-
-system design github repos
+system design github repos:
 https://www.linkedin.com/feed/update/urn:li:activity:7467185335752544256?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467185335752544256%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-
-useful repos
-https://www.linkedin.com/posts/emmanuel-oluyemi-43588a217_%F0%9D%9F%97-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%87%F0%9D%90%AE%F0%9D%90%9B-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%AC-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%8E%F0%9D%90%A9%F0%9D%90%AC-share-7467485122418683905-JfsZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-software arch and software engineering
-https://www.linkedin.com/posts/milanmilanovic_%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B1%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1-activity-7468315686394810368-8H-d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-20 system design concepts
+20 system design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7467226571745984512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467226571745984512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-microservices roadmap
-https://www.linkedin.com/posts/kazeem-aina-kolawole-502222388_microservices-softwarearchitecture-cloudnative-share-7468223228205985792-Y0Q0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-prompt hacks
-https://www.linkedin.com/feed/update/urn:li:activity:7469400692458172416?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7469400692458172416%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-soft skills
-https://www.linkedin.com/feed/update/urn:li:activity:7469197584969035776?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7469197584969035776%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-system design master tree
+system design master tree:
 https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-dangerously-good-at-system-share-7471177140277972992-zAda/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-system design cheatsheet
+system design cheatsheet:
 https://www.linkedin.com/feed/update/urn:li:activity:7470683943454048256?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7470683943454048256%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-software engineering books
-https://www.linkedin.com/feed/update/urn:li:activity:7470814785459269632?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7470814785459269632%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-multi agents architecture
-https://www.linkedin.com/feed/update/urn:li:activity:7469737123252948994?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7469737123252948994%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-system design articles
+system design articles:
 https://www.linkedin.com/feed/update/urn:li:activity:7471898974405283840?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7471898974405283840%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-Free AI Courses
-https://www.linkedin.com/posts/8020aitoday_ai-is-not-the-future-anymore-its-the-skill-activity-7470816992611049473-0Fee?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-newsletters for software engineers
-https://www.linkedin.com/feed/update/urn:li:activity:7473803603821015040/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-microservices concepts
-https://www.linkedin.com/posts/swethatelu_microservices-systemdesign-softwareengineering-share-7471420024507764738-gsAG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
-
-system design cheatsheet
+system design cheatsheet:
 https://www.linkedin.com/feed/update/urn:li:groupPost:3983267-7474406807382302720/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-claude shortcuts
-https://www.linkedin.com/feed/update/urn:li:activity:7474061145180430337?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474061145180430337%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
-system design core patterns
+system design core patterns:
 https://www.linkedin.com/feed/update/urn:li:activity:7474652385538125824?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474652385538125824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-system design case study
+system design case study:
 https://www.linkedin.com/feed/update/urn:li:activity:7474800905817821184?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474800905817821184%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-system design principles
+system design principles:
 https://www.linkedin.com/feed/update/urn:li:activity:7472531831112921089?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472531831112921089%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-System Design Patterns Every Engineer Should Know in 2026
+System Design Patterns Every Engineer Should Know in 2026:
 https://www.linkedin.com/posts/alexandre-zajac_101-system-design-patterns-every-engineer-share-7477745289018122240-Yomf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-modern system design
+modern system design:
 https://www.linkedin.com/posts/rocky-bhatia-a4801010_system-design-is-the-highest-leverage-skill-share-7479135385600675840-gWw4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-12 system design concepts
+12 system design concepts:
 https://www.linkedin.com/feed/update/urn:li:activity:7478789269218803713?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7478789269218803713%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-10 system design key pillars
+10 system design key pillars:
 https://www.linkedin.com/feed/update/urn:li:activity:7477367830322200577?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7477367830322200577%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 system design blocks:
@@ -223,20 +84,170 @@ https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateE
 14 system design concepts:
 https://www.linkedin.com/posts/nk-systemdesign-one_i-struggled-with-system-design-until-share-7480242795266613249-ddbV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
+improve system design:
+https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479867751533056000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+software arch and software engineering:
+https://www.linkedin.com/posts/milanmilanovic_%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B1%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1-activity-7468315686394810368-8H-d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+
+# Microservices
+
+microservices:
+https://www.linkedin.com/feed/update/urn:li:activity:7457629175332380672?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7457629175332380672%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+microservices roadmap:
+https://www.linkedin.com/posts/kazeem-aina-kolawole-502222388_microservices-softwarearchitecture-cloudnative-share-7468223228205985792-Y0Q0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+microservices concepts:
+https://www.linkedin.com/posts/swethatelu_microservices-systemdesign-softwareengineering-share-7471420024507764738-gsAG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+microservices architecture:
+https://www.linkedin.com/feed/update/urn:li:activity:7481780234867027968?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7481780234867027968%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+microservices design patterns:
+https://www.linkedin.com/feed/update/urn:li:activity:7482355481101996032?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7482355481101996032%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+# Java / Spring Boot
+
+Spring boot questions:
+https://www.linkedin.com/posts/dasari-saikiran-979592135_java-ugcPost-7448244627951763456-c4Go?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+Spring boot power:
+https://www.linkedin.com/feed/update/urn:li:activity:7446851498325622784?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7446851498325622784%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+java backend roadmap:
+https://www.linkedin.com/feed/update/urn:li:activity:7443550919956463616?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7443550919956463616%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+spring boot tests:
+https://www.linkedin.com/feed/update/urn:li:activity:7453179154562289665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7453179154562289665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+roadmap java engineer:
+https://www.linkedin.com/feed/update/urn:li:activity:7464948776072433665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7464948776072433665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 java production scenarios:
 https://www.linkedin.com/feed/update/urn:li:activity:7479956456931385344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479956456931385344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-improve system design 
-https://www.linkedin.com/feed/update/urn:li:activity:7479867751533056000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479867751533056000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-free AI courses 
+# DevOps / Cloud / Kubernetes / AWS
+
+devops hands-on:
+https://www.linkedin.com/posts/kareen-ajatiton-8012b1149_%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%BD-%F0%9D%9F%B1-%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%98%80-activity-7432831827830026240-JswC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+Learn cloud devops:
+https://www.linkedin.com/posts/emmanuel-oluyemi-43588a217_%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%9D-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%8E%F0%9D%90%A9%F0%9D%90%AC-activity-7440304652660731905-jUUJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+9 github repos for DevOps beginners:
+https://www.linkedin.com/feed/update/urn:li:activity:7448254657333899264?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448254657333899264%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+aws local:
+https://www.linkedin.com/feed/update/urn:li:activity:7459721485490737152?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7459721485490737152%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+cloud learning resources:
+https://www.linkedin.com/feed/update/urn:li:activity:7451223018103754754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451223018103754754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+kubernetes assignments:
+https://www.linkedin.com/feed/update/urn:li:activity:7451872091693301760?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7451872091693301760%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+AWS SAA:
+https://www.linkedin.com/feed/update/urn:li:activity:7449788735551885312?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7449788735551885312%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+github repos devops AI:
+https://www.linkedin.com/posts/vsadhwani_5-github-repos-every-devops-engineer-should-share-7458790989953122304--RzE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+kubernetes:
+https://www.linkedin.com/feed/update/urn:li:activity:7453119495033884672?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7453119495033884672%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+devops SRE repo:
+https://www.linkedin.com/feed/update/urn:li:activity:7456221080026931200?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7456221080026931200%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+aws use cases:
+https://www.linkedin.com/feed/update/urn:li:activity:7465371383657771008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7465371383657771008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+useful repos:
+https://www.linkedin.com/posts/emmanuel-oluyemi-43588a217_%F0%9D%9F%97-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%87%F0%9D%90%AE%F0%9D%90%9B-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%AC-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%8E%F0%9D%90%A9%F0%9D%90%AC-share-7467485122418683905-JfsZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+
+# Data / Messaging
+
+kafka design patterns:
+https://www.linkedin.com/feed/update/urn:li:activity:7452681966497218560?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7452681966497218560%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+redis usecases:
+https://www.linkedin.com/feed/update/urn:li:activity:7459471439063195649?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7459471439063195649%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+# AI / Claude / Prompts
+
+Top 9 AI Courses:
+https://www.linkedin.com/feed/update/urn:li:activity:7448429595537600512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448429595537600512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+claude prompt frameworks:
+https://www.linkedin.com/posts/stop-wasting-claudes-power-on-weak-prompts-share-7472635624357961728-DpXq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+AI Terms:
+https://www.linkedin.com/feed/update/urn:li:activity:7448671212286935040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7448671212286935040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+40 AI terms:
+https://www.linkedin.com/feed/update/urn:li:activity:7450226427830022144?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7450226427830022144%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+youtube channels learn AI:
+https://www.linkedin.com/feed/update/urn:li:activity:7450181132173611008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7450181132173611008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Claude courses:
+https://www.linkedin.com/feed/update/urn:li:activity:7461279275942346754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7461279275942346754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+11 courses - claude:
+https://www.linkedin.com/feed/update/urn:li:activity:7460770238482063360?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7460770238482063360%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Claude cheat sheet:
+https://www.linkedin.com/feed/update/urn:li:activity:7463414446762221571?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463414446762221571%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+claude free courses from anthropic:
+https://www.linkedin.com/posts/anthropic-quietly-dropped-13-free-claude-share-7464246035436179456-IywM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+claude code:
+https://www.linkedin.com/feed/update/urn:li:activity:7466791806433767424?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7466791806433767424%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+free ai courses:
+https://www.linkedin.com/feed/update/urn:li:activity:7467094159443562496?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7467094159443562496%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+prompt hacks:
+https://www.linkedin.com/feed/update/urn:li:activity:7469400692458172416?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7469400692458172416%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+multi agents architecture:
+https://www.linkedin.com/feed/update/urn:li:activity:7469737123252948994?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7469737123252948994%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Free AI Courses:
+https://www.linkedin.com/posts/8020aitoday_ai-is-not-the-future-anymore-its-the-skill-activity-7470816992611049473-0Fee?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+claude shortcuts:
+https://www.linkedin.com/feed/update/urn:li:activity:7474061145180430337?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7474061145180430337%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+free AI courses:
 https://www.linkedin.com/posts/anthropic-just-launched-10-free-ai-courses-share-7481406900375388160-LM4Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-Free claude courses
+Free claude courses:
 https://www.linkedin.com/posts/harishkumar-sh_claude-just-released-12-free-ai-courses-share-7481684416524627968-y8q6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-microservices architecture
-https://www.linkedin.com/feed/update/urn:li:activity:7481780234867027968?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7481780234867027968%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-microservices design patterns
-https://www.linkedin.com/feed/update/urn:li:activity:7482355481101996032?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7482355481101996032%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+# Career / Soft Skills / Resources
+
+Useful courses:
+https://www.linkedin.com/feed/update/urn:li:activity:7432288973537968128/
+
+guide to soft skills:
+https://www.linkedin.com/feed/update/urn:li:activity:7460084289691480064?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7460084289691480064%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+soft skills:
+https://www.linkedin.com/feed/update/urn:li:activity:7469197584969035776?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7469197584969035776%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+software engineer newsletters:
+https://www.linkedin.com/feed/update/urn:li:activity:7463873414962003968?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7463873414962003968%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+software engineering books:
+https://www.linkedin.com/feed/update/urn:li:activity:7470814785459269632?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7470814785459269632%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+newsletters for software engineers:
+https://www.linkedin.com/feed/update/urn:li:activity:7473803603821015040/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
