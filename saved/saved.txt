@@ -198,6 +198,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7450226427830022144?updateE
 youtube channels learn AI:
 https://www.linkedin.com/feed/update/urn:li:activity:7450181132173611008?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7450181132173611008%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+RAG architectures:
+https://www.linkedin.com/posts/top-5-rag-architectures-you-must-know-in-share-7484305996857774081-OFh-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
 Claude courses:
 https://www.linkedin.com/feed/update/urn:li:activity:7461279275942346754?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7461279275942346754%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
@@ -257,5 +260,4 @@ https://www.linkedin.com/feed/update/urn:li:activity:7470814785459269632?updateE
 newsletters for software engineers:
 https://www.linkedin.com/feed/update/urn:li:activity:7473803603821015040/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
-API Concepts
-https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-become-s-tier-with-api-design-share-7483856397865005056-80xv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
