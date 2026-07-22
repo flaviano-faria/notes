@@ -248,6 +248,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7483499081089343488?updateE
 AI Agents definitions:
 https://www.linkedin.com/feed/update/urn:li:activity:7485302655058161665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7485302655058161665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+AI Agents books:
+https://www.linkedin.com/feed/update/urn:li:activity:7485420436663660544/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
 # Career / Soft Skills / Resources
 
 Useful courses:
