@@ -245,6 +245,9 @@ https://www.linkedin.com/posts/harishkumar-sh_claude-just-released-12-free-ai-co
 AI github Repos
 https://www.linkedin.com/feed/update/urn:li:activity:7483499081089343488?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7483499081089343488%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+AI Agents definitions:
+https://www.linkedin.com/feed/update/urn:li:activity:7485302655058161665?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7485302655058161665%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 # Career / Soft Skills / Resources
 
 Useful courses:
