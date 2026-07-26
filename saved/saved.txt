@@ -124,6 +124,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7484867953700716544?updateE
 
 # Java / Spring Boot
 
+spring boot questions:
+https://www.linkedin.com/feed/update/urn:li:activity:7486774776313585664?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7486774776313585664%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 Spring boot questions:
 https://www.linkedin.com/posts/dasari-saikiran-979592135_java-ugcPost-7448244627951763456-c4Go?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
