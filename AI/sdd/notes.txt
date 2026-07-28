@@ -1,0 +1,2 @@
+SDD
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
