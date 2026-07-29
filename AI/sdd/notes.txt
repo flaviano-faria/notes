@@ -1,2 +1,5 @@
 SDD
 https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+
+sdd microsoft
+https://learn.microsoft.com/pt-br/training/modules/spec-driven-development-github-spec-kit-greenfield-intro/
