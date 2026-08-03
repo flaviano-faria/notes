@@ -1,2 +1,6 @@
 clean architecture
 https://medium.com/porto-seguro/implementando-clean-architecture-com-spring-4a8da4110bd5
+
+https://medium.com/@gabrielfernandeslemos/clean-architecture-uma-abordagem-baseada-em-princ%C3%ADpios-bf9866da1f9c
+
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
