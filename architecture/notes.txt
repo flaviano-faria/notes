@@ -13,3 +13,11 @@ https://stripe.dev/blog/topic/engineering
 https://developer.globalpayments.com/blog/overview
 https://www.trustly.com/us/blog/welcome-to-trustlys-blog-on-engineering
 https://www.10xbanking.com/engineering
+
+https://developer.mastercard.com/blog/
+https://juspay.io/blog
+https://codefarm0.medium.com/12-popular-engineering-blogs-every-software-engineer-should-always-follow-9cd61d3326fe
+https://www.slash.com/engineering
+https://newsletter.pragmaticengineer.com/p/designing-a-payment-system
+https://dodopayments.com/engineering
+https://paystack.com/blog/category/engineering-design
