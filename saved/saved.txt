@@ -114,6 +114,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7486033184510533633?updateE
 System design roadmap
 https://www.linkedin.com/posts/raul-junco_people-think-memorizing-system-design-diagrams-share-7484222458556878848-gUSE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
+system design concepts:
+https://www.linkedin.com/posts/ankur-dhawan01_trust-me-system-design-is-not-hard-if-share-7490259018658250753-MERt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
 # Microservices
 
 microservices:
