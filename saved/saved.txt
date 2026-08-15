@@ -214,6 +214,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7459471439063195649?updateE
 
 # AI / Claude / Prompts
 
+AI Courses
+https://www.linkedin.com/feed/update/urn:li:activity:7493999941531533312?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7493999941531533312%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 21 AI concepts
 https://www.linkedin.com/feed/update/urn:li:activity:7493649187847401472?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7493649187847401472%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 Top 9 AI Courses:
