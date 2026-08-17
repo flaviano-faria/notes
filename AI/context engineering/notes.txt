@@ -8,3 +8,8 @@ https://www.youtube.com/watch?v=8QN23ZThdRY
 
 Cursor agents
 https://www.youtube.com/watch?v=kF2WQgk1LtY
+
+loop engineering
+https://cobusgreyling.substack.com/p/loop-engineering
+https://addyosmani.com/blog/loop-engineering/
+https://aikitguides.com/blog/cursor-spring-boot/
