@@ -214,9 +214,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7459471439063195649?updateE
 
 # AI / Claude / Prompts
 
-AI Courses
-https://www.linkedin.com/feed/update/urn:li:activity:7493999941531533312?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7493999941531533312%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
 21 AI concepts
 https://www.linkedin.com/feed/update/urn:li:activity:7493649187847401472?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7493649187847401472%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 Top 9 AI Courses:
@@ -299,6 +296,9 @@ https://www.linkedin.com/posts/12-ai-terms-you-must-know-%F0%9D%97%95%F0%9D%97%B
 
 AI Roadmap:
 https://www.linkedin.com/posts/adam-biddlecombe_most-people-treat-ai-like-a-single-tool-share-7492050068963831809-Y9C4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+
+AI resources to learn
+https://www.linkedin.com/feed/update/urn:li:activity:7494149950940000258?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7494149950940000258%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 Prompt engineering, context eng, harness, loop diffs:
 https://www.linkedin.com/posts/adam-biddlecombe_most-people-treat-ai-like-a-single-tool-share-7492050068963831809-Y9C4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw

@@ -5,6 +5,8 @@ https://medium.com/@gabrielfernandeslemos/clean-architecture-uma-abordagem-basea
 
 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
+rabbitMq arch:
+https://www.linkedin.com/feed/update/urn:li:activity:7494149950940000258?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7494149950940000258%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 payments:
 https://paystack.com/blog/category/engineering-design
