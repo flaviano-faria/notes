@@ -123,6 +123,8 @@ https://www.linkedin.com/posts/ankur-dhawan01_trust-me-system-design-is-not-hard
 System design concepts
 https://www.linkedin.com/feed/update/urn:li:activity:7495533197183729664?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7495533197183729664%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+15 system design cases:
+https://www.linkedin.com/feed/update/urn:li:activity:7500172082538811393?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7500172082538811393%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29 
 # Microservices
 
 microservices:
