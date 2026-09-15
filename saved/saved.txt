@@ -101,6 +101,7 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_system-design-becomes-10-ea
 
 system design case studies:
 https://www.linkedin.com/feed/update/urn:li:activity:7474899886161887232/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
+https://www.linkedin.com/feed/update/urn:li:activity:7505245621264609280?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7505245621264609280%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 System design tradeoffs:
 https://lnkd.in/p/du8Aavfy
