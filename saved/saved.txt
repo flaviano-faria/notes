@@ -341,6 +341,9 @@ Prompt engineering, context eng, harness, loop diffs:
 https://www.linkedin.com/posts/adam-biddlecombe_most-people-treat-ai-like-a-single-tool-share-7492050068963831809-Y9C4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 # Career / Soft Skills / Resources
 
+harness
+https://www.linkedin.com/feed/update/urn:li:activity:7507357921047924737?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7507357921047924737%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 Useful courses:
 https://www.linkedin.com/feed/update/urn:li:activity:7432288973537968128/
 
