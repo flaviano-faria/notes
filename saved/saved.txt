@@ -143,6 +143,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7500172082538811393?updateE
 system design case studies:
 https://www.linkedin.com/posts/kaushal-singh-2a2b8722a_want-to-get-really-good-at-system-design-activity-7505836507547533313-4-4F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 
+Software design principles
+https://www.linkedin.com/feed/update/urn:li:activity:7507056071220342784?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7507056071220342784%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 # Microservices
 
 microservices:
