@@ -1,0 +1,35 @@
+spring_mongodb/
+├── AGENTS.md                 # porta de entrada do agente
+├── HARNESS.md                # (opcional) visão geral do harness
+│
+├── .cursor/
+│   ├── rules/                # regras permanentes do Cursor
+│   │   └── project.mdc
+│   └── skills/               # skills (você já tem domain-analysis)
+│       └── domain-analysis/
+│           └── SKILL.md
+│
+├── harness/                  # contrato de como o agente trabalha
+│   ├── harness.yaml          # config legível por máquina
+│   ├── feedforward.md        # o que construir e como validar
+│   ├── correction-policy.md  # retry, escalar, parar
+│   ├── risk-controls.md      # o que o agente NÃO pode fazer
+│   └── final-response-contract.md
+│
+├── tasks/                    # tarefas concretas
+│   ├── task-template.md
+│   └── examples/
+│       └── add-user-endpoint.md
+│
+├── evaluation/               # como julgar qualidade
+│   ├── rubric.md
+│   └── suites/               # (opcional) cenários de eval
+│
+├── scripts/                  # sensores: test/lint/build
+│   ├── preflight.sh          # ou .ps1 no Windows
+│   └── verify.sh
+│
+├── harness-state/            # runtime (gitignore)
+│   └── .gitkeep
+│
+└── src/ ...                  # seu código Spring (já existe)
