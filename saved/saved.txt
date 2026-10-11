@@ -351,6 +351,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7494149950940000258?updateE
 AI 12 Concepts
 https://www.linkedin.com/feed/update/urn:li:activity:7496554100768071680?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7496554100768071680%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
+AI Foundational papers
+https://lnkd.in/p/dQa8i7Yp
+
 claude code project structure:
 https://lnkd.in/p/dsRa4Kw7
 
