@@ -157,6 +157,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7507056071220342784?updateE
 25 system design concepts
 https://lnkd.in/p/d-etZrwN
 
+10 system design concepts
+https://lnkd.in/p/ddfax49X
+
 # Microservices
 
 microservices:
