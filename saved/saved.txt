@@ -354,6 +354,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7496554100768071680?updateE
 AI Foundational papers
 https://lnkd.in/p/dQa8i7Yp
 
+Become S tier with AI agents
+https://www.linkedin.com/feed/update/urn:li:activity:7515395029239173121?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7515395029239173121%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 claude code project structure:
 https://lnkd.in/p/dsRa4Kw7
 
