@@ -160,6 +160,9 @@ https://lnkd.in/p/d-etZrwN
 10 system design concepts
 https://lnkd.in/p/ddfax49X
 
+15 system design case studies
+https://www.linkedin.com/feed/update/urn:li:activity:7512129848899727361?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7512129848899727361%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 # Microservices
 
 microservices:
