@@ -436,3 +436,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7516788834420822016?updateE
 
 pipeline ci cd explained
 https://lnkd.in/p/d9rx5GJ9
+
+9 event driven arch patterns:
+https://lnkd.in/p/d9QPrbNU
