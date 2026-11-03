@@ -439,3 +439,9 @@ https://lnkd.in/p/d9rx5GJ9
 
 9 event driven arch patterns:
 https://lnkd.in/p/d9QPrbNU
+
+how great engineers debug code
+https://lnkd.in/p/dDf_QiyF
+
+load balancing algorithms
+https://lnkd.in/p/dPSp7RTE
