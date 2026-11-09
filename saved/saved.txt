@@ -453,3 +453,6 @@ https://lnkd.in/p/dDf_QiyF
 
 load balancing algorithms
 https://lnkd.in/p/dPSp7RTE
+
+Http headers:
+https://lnkd.in/p/dN76e9_5
