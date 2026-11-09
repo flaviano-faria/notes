@@ -379,6 +379,9 @@ https://lnkd.in/p/dXUhm35C
 claude code project structure:
 https://lnkd.in/p/dsRa4Kw7
 
+claude commands:
+https://lnkd.in/p/dtjM_UcG
+
 Prompt engineering, context eng, harness, loop diffs:
 https://www.linkedin.com/posts/adam-biddlecombe_most-people-treat-ai-like-a-single-tool-share-7492050068963831809-Y9C4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASnTXUBMelVAIueb8JOlw-H2_kA3vBJnhw
 https://lnkd.in/p/dyMQfzg4
