@@ -462,3 +462,6 @@ https://lnkd.in/p/dN76e9_5
 
 API Design
 https://lnkd.in/p/dVTaTjvz
+
+microservices design patterns
+https://www.linkedin.com/feed/update/urn:li:activity:7526273900670840832?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7526273900670840832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
